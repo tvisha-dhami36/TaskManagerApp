@@ -34,10 +34,10 @@ Developed entirely using **Cursor**, this project demonstrates clean code practi
 git clone https://github.com/tvisha-dhami36/TaskManagerApp.git
 cd TaskManagerApp
 
-Install dependencies:
+## Install dependencies:
 npm install
 
-Run the app:
+## Run the app:
 npx react-native run-android   # For Android
 npx react-native run-ios       # For iOS (Mac only)
 
@@ -48,9 +48,9 @@ Cursor Editor
 JavaScript
 React Hooks (useState, useEffect, etc.)
 
-📸 Screenshots
-![App Screenshot](screenshots/AddTask.png)
-![App Screenshot](screenshots/TaskList.png)
+## 📸 Screenshot
+![Add Task Screenshot](screenshots/AddTask.png)
+![Task List Screenshot](screenshots/TaskList.png)
 
 📄 License
 This project is licensed under the MIT License.
