@@ -1,0 +1,24 @@
+                        -H/Volumes/Data1/Projects/TaskManagerApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/imac/Library/Android/sdk/ndk/27.1.12297006
+-DCMAKE_ANDROID_NDK=/Users/imac/Library/Android/sdk/ndk/27.1.12297006
+-DCMAKE_TOOLCHAIN_FILE=/Users/imac/Library/Android/sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/imac/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/Data1/Projects/TaskManagerApp/android/app/build/intermediates/cxx/Debug/1dtc6xh1/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Volumes/Data1/Projects/TaskManagerApp/android/app/build/intermediates/cxx/Debug/1dtc6xh1/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_FIND_ROOT_PATH=/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/prefab/x86/prefab
+-B/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86
+-GNinja
+-DPROJECT_BUILD_DIR=/Volumes/Data1/Projects/TaskManagerApp/android/app/build
+-DPROJECT_ROOT_DIR=/Volumes/Data1/Projects/TaskManagerApp/android
+-DREACT_ANDROID_DIR=/Volumes/Data1/Projects/TaskManagerApp/node_modules/react-native/ReactAndroid
+-DANDROID_STL=c++_shared
+-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES=ON
+                        Build command args: []
+                        Version: 2

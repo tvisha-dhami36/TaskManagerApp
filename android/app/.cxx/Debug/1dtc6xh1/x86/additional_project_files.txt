@@ -1,0 +1,7 @@
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o
+/Volumes/Data1/Projects/TaskManagerApp/android/app/.cxx/Debug/1dtc6xh1/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o

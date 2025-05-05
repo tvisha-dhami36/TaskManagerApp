@@ -1,0 +1,1 @@
+/Volumes/Data1/Projects/TaskManagerApp/android/app/build/intermediates/cxx/Debug/1dtc6xh1/obj/arm64-v8a
